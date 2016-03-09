@@ -1,5 +1,5 @@
 # Parkinson-RBD
-# P06-Pipeline
+
 # Power Spectral Analysis for Parkinson's Disease Patient Polysomnograms
 
 This repository contains programs to perform Power Spectral Analysis on 65 Parkinson's Disease Patients' polysomnograms provided by Dr. Lama Chahine.
